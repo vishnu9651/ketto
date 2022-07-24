@@ -1,3 +1,9 @@
+import navbar from "/navbar/navbar.js"
+document.getElementById("navbar").innerHTML=navbar()
+
+import foot from "/navbar/footer.js"
+document.getElementById("foot").innerHTML=foot()
+
 var details=[
     {
       "gm-added": "https://kettocdn.gumlet.io/media/campaign/635000/635441/image/wid3493a964938da5ea156b23171a4cc5a3ab947d60.jpg?w=320&dpr=1.0",

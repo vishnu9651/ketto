@@ -1,0 +1,73 @@
+#footer{
+    background-color: rgb(11,67,65);
+    /* border:1px solid rebeccapurple; */
+display: flex;
+}
+#footer div{
+    /* border:1px solid gray; */
+height: 320px;
+width: 20%;
+}
+#first{
+    
+ width: 500px;}
+#first div{
+/* border:1px solid red; */
+    height:25%;
+    width: 80%;;
+}
+#icon{
+    /* border:1px solid red; */
+    height: 50px;
+    width: 80px;
+}
+#tw i{
+    font-size: 25px;
+}
+#first{
+    /* border: 1px solid red; */
+    height:35px;
+    width: 45px;
+    
+    color:white;
+}
+#follow{
+    line-height: 4px;
+}
+#second{
+    color:white;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+}
+#third{
+    color:white;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+}
+#fourth{
+    color:white;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+}
+#fifth{
+    color:white;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+}
+#card{
+    display: flex;
+    background-color:rgb(11,67,65) ;
+    justify-content:flex-end;
+}
+#line{
+    background-color:rgb(11,67,65) ;
+    border: 1px solid white;
+    height: 20px;
+    width: 100%;
+    color: white;
+text-align: center;
+}

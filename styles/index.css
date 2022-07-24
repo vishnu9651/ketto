@@ -1,21 +1,21 @@
 
-#imgdis{
-    border:1px solid red;
-}
+/* #imgdis{
+    /* border:1px solid red; */
+
 #rightHome{
-    border:1px solid red;
+    /* border:1px solid red; */
     width: 40%;
     margin-left:140px;
     height: 60%;
 }
 #leftHome{
-    border:1px solid red;
+    /* border:1px solid red; */
     width: 40%;
     height: 60%;
 }
 #per{
     display: flex;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 #per div{
     width: 40%;
@@ -51,12 +51,12 @@ button{
     color: rgb(1,191,189);
 }
 #donateMonth{
-    border:1px solid red;
+    /* border:1px solid red; */
 display:flex;
 }
 #download{
     display:flex;
-    border:1px solid red;
+    /* border:1px solid red; */
     height:150px;
     width:750px;
     background-color: aliceblue;
@@ -67,14 +67,14 @@ display:flex;
 
 }
 #donate{
-border:1px solid red;
+/* border:1px solid red; */
 margin-left:5px;
 margin-top: 20px;
 height:60px;
 width:280px;
 }
 #donateText{
-    border:1px solid blue;
+    /* border:1px solid blue; */
     height:140px;
     width:447px;
     margin-left:130px;
@@ -82,13 +82,13 @@ padding-left: 5px;
 }
 
 #donateImage{
-    border:1px solid green ;
+    /* border:1px solid green ; */
 height:100%;
 width:167.5px;
 
 }
 #donateButton{
- border:1px solid rebeccapurple;
+ /* border:1px solid rebeccapurple; */
     height:60px;
     width:200px;
     margin-left:10px;
@@ -114,11 +114,11 @@ display:flex;
 height:500px;
 margin-right: 20px;
 width:100%;
-border:1px solid green;
+/* border:1px solid green; */
 }
-#cart div{
-    border:1px solid yellow
-}
+/* #cart div{
+    /* border:1px solid yellow */
+ 
 #amount{
     display:flex;
 }
@@ -148,7 +148,7 @@ margin-right: 60px;
 }
 #startA{
 margin-right: 20px;
-border:1px solid teal;
+/* border:1px solid teal; */
 color:white;
 font-weight: bold;
 background-color: aqua;
@@ -160,7 +160,7 @@ border-radius: 5px;
 #startTalk{
     
     margin-left: 60px;
-border:1px solid teal;
+/* border:1px solid teal; */
 color:teal;
 
 width:180px;
@@ -177,7 +177,7 @@ border-radius: 5px;
     margin-left: 300px;
 }
 #que-chat{
-    border:1px solid red;
+    /* border:1px solid red; */
     margin-top: 20px;;
 width: 90%;
 height: 40px;
@@ -185,17 +185,17 @@ display: flex;
 justify-content: space-evenly;
 }
 #question{
-border:1px solid blue;
+/* border:1px solid blue; */
 width:540px;
 font-size: 16px;
 }
 #chat-fb{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display: flex;
     width: 400px;
 }
 #fbb{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     width:150px;
     padding-left: 20px;
     border-radius: 10px;
@@ -207,7 +207,7 @@ font-size: 16px;
 color:white;
 }
 #whatsapp{
-    border:1px solid green;
+    /* border:1px solid green; */
     width:180px;
     border-radius: 10px;
     font-weight: bold;
@@ -225,7 +225,7 @@ i{
     display: flex;
     width: 80%;
     margin: auto;
-    border: 1px solid palevioletred;
+    /* border: 1px solid palevioletred; */
     height: 500px;
     justify-content: space-around;
 }
@@ -234,7 +234,8 @@ i{
     width: 120%;
     height: 500px;
 
-border: 1px solid firebrick;}
+/* /* border: 1px solid firebrick; */
+}
 
 #dataicon{
     display: flex;
@@ -242,14 +243,14 @@ border: 1px solid firebrick;}
 margin-left: 40px;
 width: 400px;
 height: 400px;
-border: 1px solid green;
+/* border: 1px solid green; */
 }
 #manleft{
     margin-left:20px ;
     border: 1px solod goldenrod;
 }
 #dataicon div{
-    border: 1px solid greenyellow;
+    /* border: 1px solid greenyellow; */
     height: 160px;
     width: 180px;
     
@@ -280,7 +281,7 @@ border: 1px solid green;
 }
 #imgcopy img{
     margin-top: 50px;
-    border: 1px solid red;;
+    /* border: 1px solid red;; */
     height: 520px;
     width: 1200px;
 }
@@ -315,7 +316,7 @@ border: 1px solid green;
 #suscribe{
     font-weight: normal;
 }
-
+/* 
 #footer{
     background-color: rgb(11,67,65);
     border:1px solid rebeccapurple;
@@ -388,4 +389,4 @@ border:1px solid red;
     width: 100%;
     color: white;
 text-align: center;
-}
+} */
